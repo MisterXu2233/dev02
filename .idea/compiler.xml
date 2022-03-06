@@ -2,16 +2,19 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="_02-MyBatis-04-Placeholder" />
         <module name="_01-ThirdLayerApplication" />
         <module name="_02-MyBatis-05-Properties" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
       <module name="_01-ThirdLayerApplication" target="1.8" />
+      <module name="_02-MyBatis-04-Placeholder" target="1.8" />
       <module name="_02-MyBatis-05-Properties" target="1.8" />
     </bytecodeTargetLevel>
   </component>

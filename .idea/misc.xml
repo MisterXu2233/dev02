@@ -5,6 +5,7 @@
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/01-ThirdLayerApplication" />
+    <file type="web" url="file://$PROJECT_DIR$/02-MyBatis-04-Placeholder" />
     <file type="web" url="file://$PROJECT_DIR$/02-MyBatis-05-Properties" />
   </component>
   <component name="MavenProjectsManager">
@@ -12,6 +13,7 @@
       <list>
         <option value="$PROJECT_DIR$/01-ThirdLayerApplication/pom.xml" />
         <option value="$PROJECT_DIR$/02-MyBatis-05-Properties/pom.xml" />
+        <option value="$PROJECT_DIR$/02-MyBatis-04-Placeholder/pom.xml" />
       </list>
     </option>
   </component>
